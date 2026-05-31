@@ -282,7 +282,7 @@ This project is licensed under the ISC License.
 
 ## 📧 Contact
 
-For questions or support, please reach out to devank@gmail.com
+For questions or support, please reach out to devank01@gmail.com
 
 ---
 
